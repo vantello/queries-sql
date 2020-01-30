@@ -67,8 +67,6 @@ companyies amb més cancel·lacions apareguin les primeres.
     ORDER BY totalDistance DESC
     LIMIT 10
 
-    Obviar el primer registre, perque hi ha entrades sense TailNum
-
 7. Companyies amb el seu retard promig només d’aquelles les quals els seus vols arriben al seu destí 
 amb un retràs promig major de 10 minuts.
 
